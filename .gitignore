@@ -1,0 +1,8 @@
+# Zephyr build output
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
